@@ -4,7 +4,7 @@
    :caption: KS4005 KS4006 Keyestudio Super Starter Kit for BBC Micro:bit
 
 
-   KS4005-KS4006.md
+   docs/KS4005-KS4006.md
 
 
 
